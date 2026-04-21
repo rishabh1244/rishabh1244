@@ -7,7 +7,9 @@
 ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝
 ```
 
-# `Hi! I'm Rishabh Kumar` | <img src="lorenz.svg" alt="Lorenz Attractor" align="right" width="400"/>
+# `Hi! I'm Rishabh Kumar` |
+---
+<img src="lorenz.svg" alt="Lorenz Attractor" align="right" width="400"/>
 
 
 **`18. FullStack Developer`**
