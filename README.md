@@ -60,11 +60,7 @@ Node.js · Express
 REST APIs · MongoDB · Redis · Postgres
 ```
 
-**`Currently Learning`**
-```
-Rust · Web3 · AI/ML
-Linux Internals 
-```
+
 
 </td>
 <td valign="top" width="50%">
@@ -91,6 +87,8 @@ Embedded Systems
 [ACTIVE]  ██ Rust           — memory safe systems
 [ACTIVE]  ██ Web3           — decentralized everything
 [ACTIVE]  ██ AI/ML          — because obviously
+[ACTIVE]  ██ History        — empires, wars, civilizations
+[ACTIVE]  ██ Philosophy     — epistemology, determinism, stoicism
 [ACTIVE]  ██ Simulations    — lorenz, nbody, fluid →→→
 [QUEUED]  ░░ Compilers      — next rabbit hole
 ```
@@ -103,6 +101,7 @@ Embedded Systems
 📖  Novels         — the long ones
 🎮  Video Games    — Sekiro >>   
 🎵  Music          — Drake >>
+🏛️  Philosophy     — free will is a lie probably
 ```
 
 ---
@@ -117,7 +116,8 @@ Embedded Systems
 <div align="center">
 
 ```
-"The butterfly effect isn't just a metaphor.
- It's a differential equation."
+
+“The ultimate fate of all intelligent beings has always been to become as grand as their thoughts.”
+                                                                                           ― Liu Cixin
 ```
 </div>
