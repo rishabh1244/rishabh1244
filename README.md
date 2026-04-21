@@ -7,14 +7,14 @@
 ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝
 ```
 
-# `Hi! I'm Rishabh Kumar` |
+# `Hi! I'm Rishabh Kumar` | <img src="lorenz.svg" alt="Lorenz Attractor" align="right" width="400"/>
+
 
 **`18. FullStack Developer`**
 
 `Cracked` • `Builder` • `Obsessive Learner` • `Systems Thinker`
 
 ---
-<img src="lorenz.svg" alt="Lorenz Attractor" align="right" width="400"/>
 
 
 ### `> whoami`
@@ -88,9 +88,8 @@ Embedded Systems
 [ACTIVE]  ██ Web3           — decentralized everything
 [ACTIVE]  ██ AI/ML          — because obviously
 [ACTIVE]  ██ History        — empires, wars, civilizations
-[ACTIVE]  ██ Philosophy     — epistemology, determinism, stoicism
+[ACTIVE]  ██ Philosophy     — Dosoevesky , Nietzsche
 [ACTIVE]  ██ Simulations    — lorenz, nbody, fluid →→→
-[QUEUED]  ░░ Compilers      — next rabbit hole
 ```
 
 ---
@@ -98,7 +97,7 @@ Embedded Systems
 ### `> cat hobbies.txt`
 
 ```
-📖  Novels         — the long ones
+📖  Novels         — Classics , Fantasy , SciFi
 🎮  Video Games    — Sekiro >>   
 🎵  Music          — Drake >>
 🏛️  Philosophy     — free will is a lie probably
@@ -112,12 +111,13 @@ Embedded Systems
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-kumar-389334383/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@Rishabh1244
 )
-
+[![Goodreads](https://img.shields.io/badge/Goodreads-%23372213.svg?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/186803389-rishabh-kumar)
 <div align="center">
 
 ```
 
 “The ultimate fate of all intelligent beings has always been to become as grand as their thoughts.”
-                                                                                           ― Liu Cixin
+
+                                                                                                  ― Liu Cixin
 ```
 </div>
