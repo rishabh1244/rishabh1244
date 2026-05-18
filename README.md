@@ -39,7 +39,7 @@ If it involves Math, Code, Logic, Problem Solving — I'm in.
 Web Development     ████████████░░  MERN / Next.js
 Mathematics         ██████░░░░░░░░  Linear Algebra, Calculus
 Low Level Systems   ██░░░░░░░░░░░░  C / C++ / Rust
-AI / ML             ████████░░░░░░  Currently Learning
+AI / ML             █░░░░░░░░░░░░░  Currently Learning
 Web3                ██████░░░░░░░░  Exploring
 </pre>
 
