@@ -14,7 +14,7 @@
 <img src="lorenz.svg" alt="Lorenz Attractor" align="right" width="400"/>
 
 <pre>
-18. FullStack Developer
+19. FullStack Developer
 
 Cracked • Builder • Obsessive Learner • Systems Thinker
 </pre>
