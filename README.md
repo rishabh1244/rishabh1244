@@ -91,8 +91,6 @@ Embedded Systems
 [ACTIVE]  ██ Rust           — memory safe systems
 [ACTIVE]  ██ Web3           — decentralized everything
 [ACTIVE]  ██ AI/ML          — because obviously
-[ACTIVE]  ██ History        — empires, wars, civilizations
-[ACTIVE]  ██ Philosophy     — Dostoevsky, Nietzsche
 [ACTIVE]  ██ Simulations    — lorenz, nbody, fluid →→→
 </pre>
 
