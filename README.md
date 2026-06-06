@@ -10,8 +10,9 @@
 # Hi! I'm Rishabh Kumar
 
 ---
-
-<img src="lorenz.svg" alt="Lorenz Attractor" align="right" width="400"/>
+<div align="center">
+  <img src="lorenz.svg" alt="Lorenz Attractor" width="400"/>
+</div>
 
 <pre>
 19. FullStack Developer
