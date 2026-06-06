@@ -10,9 +10,6 @@
 # Hi! I'm Rishabh Kumar
 
 ---
-<div align="center">
-  <img src="lorenz.svg" alt="Lorenz Attractor" width="400"/>
-</div>
 
 <pre>
 19. FullStack Developer
@@ -21,6 +18,9 @@ Cracked • Builder • Obsessive Learner • Systems Thinker
 </pre>
 
 ---
+<div align="center">
+  <img src="lorenz.svg" alt="Lorenz Attractor" width="400"/>
+</div>
 
 ### > whoami
 
