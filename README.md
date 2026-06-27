@@ -10,24 +10,33 @@
 </div>
 
 # Hi! I'm Rishabh Kumar
+
 ---
+
 <pre>
 19. FullStack Developer
 Cracked • Builder • Obsessive Learner • Systems Thinker
 </pre>
+
 ---
+
 <div align="center">
   <img src="lorenz.svg" alt="Lorenz Attractor" width="400"/>
 </div>
+
 ### > whoami
+
 <pre>
 Fullstack dev with a deep itch for low-level systems,
 math-driven problem solving, and building things
 that actually do something interesting.
 If it involves Math, Code, Logic, Problem Solving — I'm in.
 </pre>
+
 ---
+
 ### > cat interests.txt
+
 <pre>
 Web Development     ████████████░░  MERN / Next.js
 Mathematics         ██████░░░░░░░░  Linear Algebra, Calculus
@@ -35,8 +44,11 @@ Low Level Systems   ██░░░░░░░░░░░░  C / C++ / Rust
 AI / ML             █░░░░░░░░░░░░░  Currently Learning
 Web3                ██████░░░░░░░░  Exploring
 </pre>
+
 ---
+
 ### > ls ./tech-stack/
+
 <table>
 <tr>
 <td valign="top" width="50%">
@@ -61,8 +73,11 @@ Embedded Systems
 </td>
 </tr>
 </table>
+
 ---
+
 ### > cat obsessions.log
+
 <pre>
 [ACTIVE]  ██ Maths          — always
 [ACTIVE]  ██ Linux          — kernel deep dives
@@ -71,20 +86,27 @@ Embedded Systems
 [ACTIVE]  ██ AI/ML          — because obviously
 [ACTIVE]  ██ Simulations    — lorenz, nbody, fluid →→→
 </pre>
+
 ---
+
 ### > cat hobbies.txt
+
 <pre>
 📖  Novels         — Classics, Fantasy, SciFi
 🎮  Video Games    — Sekiro >>
 🎵  Music          — Drake >>
 🏛️  Philosophy     — free will is a lie probably
 </pre>
+
 ---
+
 ### > ./connect.sh
+
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishabh1244)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-kumar-389334383/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@Rishabh1244)
 [![Goodreads](https://img.shields.io/badge/Goodreads-%23372213.svg?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/186803389-rishabh-kumar)
+
 <div align="center">
 <pre>
 "The ultimate fate of all intelligent beings has always been to become as grand as their thoughts."
