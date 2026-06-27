@@ -22,36 +22,24 @@ Cracked • Builder • Obsessive Learner • Systems Thinker
 
 ### > whoami
 
-<table>
-<tr><td>
-
-```
+<pre>
 Fullstack dev with a deep itch for low-level systems,
 math-driven problem solving, and building things
 that actually do something interesting.
 If it involves Math, Code, Logic, Problem Solving — I'm in.
-```
-
-</td></tr>
-</table>
+</pre>
 
 <br>
 
 ### > cat interests.txt
 
-<table>
-<tr><td>
-
-```
+<pre>
 Web Development     ████████████░░  MERN / Next.js
 Mathematics         ██████░░░░░░░░  Linear Algebra, Calculus
 Low Level Systems   ██░░░░░░░░░░░░  C / C++ / Rust
 AI / ML             █░░░░░░░░░░░░░  Currently Learning
 Web3                ██████░░░░░░░░  Exploring
-```
-
-</td></tr>
-</table>
+</pre>
 
 <br>
 
@@ -62,29 +50,27 @@ Web3                ██████░░░░░░░░  Exploring
 <td valign="top" width="50%" align="center">
 
 **Frontend**
-
-```
+<pre>
 Next.js · React · TypeScript
 HTML · CSS · TailwindCSS
-```
+</pre>
 
 **Backend**
-
-```
+<pre>
 Node.js · Express
-REST APIs · MongoDB · Redis · Postgres
-```
+REST APIs · MongoDB
+Redis · Postgres
+</pre>
 
 </td>
 <td valign="top" width="50%" align="center">
 
 **Low Level**
-
-```
+<pre>
 C · C++ · Rust
 Raylib · SDL2
 Embedded Systems
-```
+</pre>
 
 </td>
 </tr>
@@ -94,37 +80,25 @@ Embedded Systems
 
 ### > cat obsessions.log
 
-<table>
-<tr><td>
-
-```
+<pre>
 [ACTIVE]  ██ Maths          — always
 [ACTIVE]  ██ Linux          — kernel deep dives
 [ACTIVE]  ██ Rust           — memory safe systems
 [ACTIVE]  ██ Web3           — decentralized everything
 [ACTIVE]  ██ AI/ML          — because obviously
 [ACTIVE]  ██ Simulations    — lorenz, nbody, fluid →→→
-```
-
-</td></tr>
-</table>
+</pre>
 
 <br>
 
 ### > cat hobbies.txt
 
-<table>
-<tr><td>
-
-```
+<pre>
 📖  Novels         — Classics, Fantasy, SciFi
 🎮  Video Games    — Sekiro >>
 🎵  Music          — Drake >>
 🏛️  Philosophy     — free will is a lie probably
-```
-
-</td></tr>
-</table>
+</pre>
 
 <br>
 
@@ -137,7 +111,9 @@ Embedded Systems
 
 <br>
 
-> "The ultimate fate of all intelligent beings has always been to become as grand as their thoughts."
-> — Liu Cixin
+<pre>
+"The ultimate fate of all intelligent beings has always been to become as grand as their thoughts."
+― Liu Cixin
+</pre>
 
 </div>
