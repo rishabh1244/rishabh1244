@@ -1,4 +1,3 @@
-
 <pre>
 ██████╗ ██╗███████╗██╗  ██╗ █████╗ ██████╗ ██╗  ██╗
 ██╔══██╗██║██╔════╝██║  ██║██╔══██╗██╔══██╗██║  ██║
@@ -7,8 +6,6 @@
 ██║  ██║██║███████║██║  ██║██║  ██║██████╔╝██║  ██║
 ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝
 </pre>
-
-
 # Hi! I'm Rishabh Kumar
 ---
 <pre>
@@ -87,7 +84,7 @@ Embedded Systems
 [![Goodreads](https://img.shields.io/badge/Goodreads-%23372213.svg?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/186803389-rishabh-kumar)
 <div align="center">
 <pre>
-"The ultimate fate of all intelligent beings has always been to become as grand as their thoughts."
+“The ultimate fate of all intelligent beings has always been to become as grand as their thoughts.”
 ― Liu Cixin
 </pre>
 </div>
