@@ -1,4 +1,5 @@
 <div align="center">
+
 <pre>
 ██████╗ ██╗███████╗██╗  ██╗ █████╗ ██████╗ ██╗  ██╗
 ██╔══██╗██║██╔════╝██║  ██║██╔══██╗██╔══██╗██║  ██║
@@ -7,98 +8,125 @@
 ██║  ██║██║███████║██║  ██║██║  ██║██████╔╝██║  ██║
 ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝
 </pre>
-</div>
 
 # Hi! I'm Rishabh Kumar
-
----
 
 <pre>
 19. FullStack Developer
 Cracked • Builder • Obsessive Learner • Systems Thinker
 </pre>
 
----
+<img src="lorenz.svg" alt="Lorenz Attractor" width="400"/>
 
-<div align="center">
-  <img src="lorenz.svg" alt="Lorenz Attractor" width="400"/>
-</div>
+<br><br>
 
 ### > whoami
 
-<pre>
+<table>
+<tr><td>
+
+```
 Fullstack dev with a deep itch for low-level systems,
 math-driven problem solving, and building things
 that actually do something interesting.
 If it involves Math, Code, Logic, Problem Solving — I'm in.
-</pre>
+```
 
----
+</td></tr>
+</table>
+
+<br>
 
 ### > cat interests.txt
 
-<pre>
+<table>
+<tr><td>
+
+```
 Web Development     ████████████░░  MERN / Next.js
 Mathematics         ██████░░░░░░░░  Linear Algebra, Calculus
 Low Level Systems   ██░░░░░░░░░░░░  C / C++ / Rust
 AI / ML             █░░░░░░░░░░░░░  Currently Learning
 Web3                ██████░░░░░░░░  Exploring
-</pre>
+```
 
----
+</td></tr>
+</table>
+
+<br>
 
 ### > ls ./tech-stack/
 
 <table>
 <tr>
-<td valign="top" width="50%">
-<b>Frontend</b>
-<pre>
+<td valign="top" width="50%" align="center">
+
+**Frontend**
+
+```
 Next.js · React · TypeScript
 HTML · CSS · TailwindCSS
-</pre>
-<b>Backend</b>
-<pre>
+```
+
+**Backend**
+
+```
 Node.js · Express
 REST APIs · MongoDB · Redis · Postgres
-</pre>
+```
+
 </td>
-<td valign="top" width="50%">
-<b>Low Level</b>
-<pre>
+<td valign="top" width="50%" align="center">
+
+**Low Level**
+
+```
 C · C++ · Rust
 Raylib · SDL2
 Embedded Systems
-</pre>
+```
+
 </td>
 </tr>
 </table>
 
----
+<br>
 
 ### > cat obsessions.log
 
-<pre>
+<table>
+<tr><td>
+
+```
 [ACTIVE]  ██ Maths          — always
 [ACTIVE]  ██ Linux          — kernel deep dives
 [ACTIVE]  ██ Rust           — memory safe systems
 [ACTIVE]  ██ Web3           — decentralized everything
 [ACTIVE]  ██ AI/ML          — because obviously
 [ACTIVE]  ██ Simulations    — lorenz, nbody, fluid →→→
-</pre>
+```
 
----
+</td></tr>
+</table>
+
+<br>
 
 ### > cat hobbies.txt
 
-<pre>
+<table>
+<tr><td>
+
+```
 📖  Novels         — Classics, Fantasy, SciFi
 🎮  Video Games    — Sekiro >>
 🎵  Music          — Drake >>
 🏛️  Philosophy     — free will is a lie probably
-</pre>
+```
 
----
+</td></tr>
+</table>
+
+<br>
 
 ### > ./connect.sh
 
@@ -107,9 +135,9 @@ Embedded Systems
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@Rishabh1244)
 [![Goodreads](https://img.shields.io/badge/Goodreads-%23372213.svg?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/186803389-rishabh-kumar)
 
-<div align="center">
-<pre>
-"The ultimate fate of all intelligent beings has always been to become as grand as their thoughts."
-― Liu Cixin
-</pre>
+<br>
+
+> "The ultimate fate of all intelligent beings has always been to become as grand as their thoughts."
+> — Liu Cixin
+
 </div>
