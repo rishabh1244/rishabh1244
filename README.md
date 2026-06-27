@@ -1,5 +1,4 @@
 <div align="center">
-
 <pre>
 ██████╗ ██╗███████╗██╗  ██╗ █████╗ ██████╗ ██╗  ██╗
 ██╔══██╗██║██╔════╝██║  ██║██╔══██╗██╔══██╗██║  ██║
@@ -8,17 +7,22 @@
 ██║  ██║██║███████║██║  ██║██║  ██║██████╔╝██║  ██║
 ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝
 </pre>
+</div>
 
 # Hi! I'm Rishabh Kumar
+
+---
 
 <pre>
 19. FullStack Developer
 Cracked • Builder • Obsessive Learner • Systems Thinker
 </pre>
 
-<img src="lorenz.svg" alt="Lorenz Attractor" width="400"/>
+---
 
-<br><br>
+<div align="center">
+  <img src="lorenz.svg" alt="Lorenz Attractor" width="400"/>
+</div>
 
 ### > whoami
 
@@ -29,7 +33,7 @@ that actually do something interesting.
 If it involves Math, Code, Logic, Problem Solving — I'm in.
 </pre>
 
-<br>
+---
 
 ### > cat interests.txt
 
@@ -41,42 +45,36 @@ AI / ML             █░░░░░░░░░░░░░  Currently Learni
 Web3                ██████░░░░░░░░  Exploring
 </pre>
 
-<br>
+---
 
 ### > ls ./tech-stack/
 
 <table>
 <tr>
-<td valign="top" width="50%" align="center">
-
-**Frontend**
+<td valign="top" width="50%">
+<b>Frontend</b>
 <pre>
 Next.js · React · TypeScript
 HTML · CSS · TailwindCSS
 </pre>
-
-**Backend**
+<b>Backend</b>
 <pre>
 Node.js · Express
-REST APIs · MongoDB
-Redis · Postgres
+REST APIs · MongoDB · Redis · Postgres
 </pre>
-
 </td>
-<td valign="top" width="50%" align="center">
-
-**Low Level**
+<td valign="top" width="50%">
+<b>Low Level</b>
 <pre>
 C · C++ · Rust
 Raylib · SDL2
 Embedded Systems
 </pre>
-
 </td>
 </tr>
 </table>
 
-<br>
+---
 
 ### > cat obsessions.log
 
@@ -89,7 +87,7 @@ Embedded Systems
 [ACTIVE]  ██ Simulations    — lorenz, nbody, fluid →→→
 </pre>
 
-<br>
+---
 
 ### > cat hobbies.txt
 
@@ -100,7 +98,7 @@ Embedded Systems
 🏛️  Philosophy     — free will is a lie probably
 </pre>
 
-<br>
+---
 
 ### > ./connect.sh
 
@@ -109,11 +107,9 @@ Embedded Systems
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@Rishabh1244)
 [![Goodreads](https://img.shields.io/badge/Goodreads-%23372213.svg?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/186803389-rishabh-kumar)
 
-<br>
-
+<div align="center">
 <pre>
 "The ultimate fate of all intelligent beings has always been to become as grand as their thoughts."
 ― Liu Cixin
 </pre>
-
 </div>
