@@ -1,3 +1,5 @@
+<div align="center">
+
 <pre>
 ██████╗ ██╗███████╗██╗  ██╗ █████╗ ██████╗ ██╗  ██╗
 ██╔══██╗██║██╔════╝██║  ██║██╔══██╗██╔══██╗██║  ██║
@@ -13,14 +15,12 @@
 
 <pre>
 19. FullStack Developer
-
 Cracked • Builder • Obsessive Learner • Systems Thinker
 </pre>
 
 ---
-<div align="center">
-  <img src="lorenz.svg" alt="Lorenz Attractor" width="400"/>
-</div>
+
+<img src="lorenz.svg" alt="Lorenz Attractor" width="400"/>
 
 ### > whoami
 
@@ -28,7 +28,6 @@ Cracked • Builder • Obsessive Learner • Systems Thinker
 Fullstack dev with a deep itch for low-level systems,
 math-driven problem solving, and building things
 that actually do something interesting.
-
 If it involves Math, Code, Logic, Problem Solving — I'm in.
 </pre>
 
@@ -48,36 +47,27 @@ Web3                ██████░░░░░░░░  Exploring
 
 ### > ls ./tech-stack/
 
-<table>
+<table align="center">
 <tr>
-<td valign="top" width="50%">
-
+<td valign="top" width="50%" align="center">
 <b>Frontend</b>
-
 <pre>
 Next.js · React · TypeScript
 HTML · CSS · TailwindCSS
 </pre>
-
 <b>Backend</b>
-
 <pre>
 Node.js · Express
 REST APIs · MongoDB · Redis · Postgres
 </pre>
-
 </td>
-
-<td valign="top" width="50%">
-
+<td valign="top" width="50%" align="center">
 <b>Low Level</b>
-
 <pre>
 C · C++ · Rust
 Raylib · SDL2
 Embedded Systems
 </pre>
-
 </td>
 </tr>
 </table>
@@ -115,10 +105,9 @@ Embedded Systems
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@Rishabh1244)
 [![Goodreads](https://img.shields.io/badge/Goodreads-%23372213.svg?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/186803389-rishabh-kumar)
 
-<div align="center">
 <pre>
 “The ultimate fate of all intelligent beings has always been to become as grand as their thoughts.”
-
 ― Liu Cixin
 </pre>
+
 </div>
